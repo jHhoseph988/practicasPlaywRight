@@ -1,0 +1,15 @@
+{
+  "name": "practicasplaywright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {},
+  "author": "Josept",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.32.3"
+  }
+}
