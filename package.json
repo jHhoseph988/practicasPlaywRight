@@ -10,6 +10,9 @@
   "author": "Josept",
   "license": "ISC",
   "devDependencies": {
-    "@playwright/test": "^1.32.3"
+    "@playwright/test": "^1.33.0"
+  },
+  "dependencies": {
+    "playwright": "^1.33.0"
   }
 }
